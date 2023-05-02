@@ -14,7 +14,7 @@ Week 2: Recall of regression techniques and new way handling the model in Regres
 Week 3: Learned and applied Support Vector Machines with different kernels, Logistic regression recall.
 - Recall logistic regression and applied on cancer data set and Airbnb for predicting.
 - SVM model implemented from using SKlearn package and tested in on dataset.
-- 
+ 
 Week 4: Decision tree and machine learning data camp course.
 - Recall and learned new way methods of handling and using the Decision tree on different data set.
 - using Airbnb dataset on decision tree data model we analysis the how data set really work on model.
