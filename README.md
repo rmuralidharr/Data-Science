@@ -7,9 +7,12 @@
 Week 1: Recall the machine learning and python.
 - Sample task to learn about jupyter markdown notebook.
 - Learned GitHub using Data Camp Platform. 
+
+
 Week 2: Recall of regression techniques and new way handling the model in Regression.
 -Generating data set after data handling operation on original dataset.
-- Applying Predictive modeling on generated and split data set. 
+- Applying Predictive modeling on generated and split data set. \
+
 Week 3: Learned and applied Support Vector Machines with different kernels, Logistic regression recall.
 -Recall logistic regression and applied on cancer data set and Airbnb for predicting.
 -SVM model implemented from using SKlearn package and tested in on dataset.
